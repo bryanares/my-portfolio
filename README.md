@@ -4,7 +4,8 @@ Portfolio
 ## Author
 Brian Maina
 
-##Installation
+## Installation
+
 This is a website and does not require any installation.
 
 ## Project Description
